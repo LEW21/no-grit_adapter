@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "grit_adapter/version"
 
 Gem::Specification.new do |s|
   s.name        = "gollum-grit_adapter"
-  s.version     = Gollum::Lib::Git::VERSION
+  s.version     = "1.0"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Janusz Lewandowski"]
   s.email       = ["dev@null.tld"]
