@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
   s.license	= "MIT"
 
   s.files         = ["README.md"]
-  s.require_paths = []
+  s.require_paths = ["lib"]
 end
