@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   s.description = %q{Fake grit_adapter gem that does nothing.}
   s.license	= "MIT"
 
-  s.files         = ["README.md", "Gemfile"]
+  s.files         = ["README.md"]
   s.require_paths = []
 end
